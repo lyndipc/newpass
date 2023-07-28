@@ -3,7 +3,7 @@
 
 Newpass is a simple and secure command-line tool that allows you to generate strong and random passwords with customizable options. With this tool, you can create unique passwords for your various accounts and services, ensuring better security for your online presence.
 
-=======
+***
 
 ## Features
 
@@ -56,4 +56,4 @@ This project is licensed under the [MIT](https://choosealicense.com/licenses/mit
 
 Contributions to this project are welcome! If you find a bug or would like to request a new feature, please open an issue or submit a pull request.
 
-=======
+***
