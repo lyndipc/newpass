@@ -1,0 +1,12 @@
+{
+  "name": "lyndipc/newpass",
+  "description": "CLI Password Generator",
+  "type": "clilibrary",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lyndi Castrejon"
+    }
+  ],
+  "require": {}
+}
