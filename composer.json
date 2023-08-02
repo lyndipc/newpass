@@ -8,5 +8,7 @@
       "name": "Lyndi Castrejon"
     }
   ],
-  "require": {}
+  "require": {
+    "php": ">=8.2"
+  }
 }
